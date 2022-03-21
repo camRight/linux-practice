@@ -8,4 +8,5 @@ Looking at what packages I should get in my Ubuntu environment and a review of t
      - `tree .git`
 - git is already installed on most linux environments (inquire: alpine containers and alpine-slim)
      - aside from basics also look at: `cat ./.git/HEAD`
-     - my gitlog whopper: `git log --graph --abbrev-commit --date-order --format=format:'%Cblue%h%Creset%C(bold red)%d%Creset %s <%an> %Cgreen(%ar)%Creset' --all`
+     - my gitlog whopper: `git log --graph --abbrev-commit --date-order --format=format:'%Cblue%h%Creset%C(bold red)%d%Creset %s <%an> %Cgreen(%ar)%Creset' --all` aliased as gl
+     -
