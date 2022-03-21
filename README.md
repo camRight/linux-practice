@@ -2,6 +2,8 @@
 Looking at what packages I should get in my Ubuntu environment and a review of things I'm familiar with.
 
 
+### Bash Scripting and High Level Overview
+
 ### Packages List
 - tree
      - manages your git trees and other various things: structuring information
