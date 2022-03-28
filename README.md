@@ -23,3 +23,7 @@ Now? Looking at what packages I should get in my Ubuntu environment and a review
      -    file begins with `-` or has spaces in it.
          -         add `cat -- "$USERFILE"`
 - Bus test: could one of your teammates look at your script and use them relatively easy.
+
+
+## Git
+- In global config the LAST value on the list will be used. See example list and example output.
