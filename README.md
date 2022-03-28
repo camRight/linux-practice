@@ -20,6 +20,6 @@ Now? Looking at what packages I should get in my Ubuntu environment and a review
 - Don't just put everything in /dev/null.
 - comments and/or echo.
 - what if your input parameter is improperly formatted? 
--    file begins with `-` or has spaces in it.
--    add `cat -- "$USERFILE"`
+     -    file begins with `-` or has spaces in it.
+         -         add `cat -- "$USERFILE"`
 - Bus test: could one of your teammates look at your script and use them relatively easy.
