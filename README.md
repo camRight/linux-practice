@@ -18,7 +18,7 @@ Now? Looking at what packages I should get in my Ubuntu environment and a review
 
 ## Bash Scripting
 - Don't just put everything in /dev/null.
-- comments and/or echo.
+- comments and/or echo as best practice.
 - what if your input parameter is improperly formatted? 
      -    file begins with `-` or has spaces in it.
          -         add `cat -- "$USERFILE"`
