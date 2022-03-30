@@ -27,3 +27,7 @@ Now? Looking at what packages I should get in my Ubuntu environment and a review
 
 ## Git
 - In global config the LAST value on the list will be used. See example list and example output.
+
+`git gc` | `--prune`or `auto` to check
+
+`git diff` then either `HEAD HEAD^` or `SHA SHA`
